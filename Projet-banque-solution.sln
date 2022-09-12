@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banque_graphic", "banque_graphic\banque_graphic.csproj", "{8636C302-DFF2-49D0-90C1-D29A54F1AFEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banque Console", "..\..\Downloads\Banque_Console_Corrige\Banque Console Corrige\Banque Console.csproj", "{2C0D23AD-19F8-4BD0-973E-FD0FBCBFFA50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8636C302-DFF2-49D0-90C1-D29A54F1AFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8636C302-DFF2-49D0-90C1-D29A54F1AFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8636C302-DFF2-49D0-90C1-D29A54F1AFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8636C302-DFF2-49D0-90C1-D29A54F1AFEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0D23AD-19F8-4BD0-973E-FD0FBCBFFA50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0D23AD-19F8-4BD0-973E-FD0FBCBFFA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0D23AD-19F8-4BD0-973E-FD0FBCBFFA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0D23AD-19F8-4BD0-973E-FD0FBCBFFA50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F7A9FDA-2625-45CF-A6D5-7329AE7750A1}
+	EndGlobalSection
+EndGlobal
